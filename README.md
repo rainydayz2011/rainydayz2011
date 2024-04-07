@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lol
 - 📫 How to reach me ... you cant <3
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: my dog dexter id 13 years old
+- ⚡ Fun fact: my dog dexter is 13 years old
 
 <!---
 rainydayz2011/rainydayz2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
